@@ -81,7 +81,7 @@
 - 诗经 [shijing](./shijing)
 - 幽梦影 [youmengying](./youmengying)
 - 四书五经 [sishuwujing](./sishuwujing)
-- 蒙學 [mengxue](./mengxue)
+- 蒙学 [mengxue](./mengxue)
 
 
 ## 贡献
